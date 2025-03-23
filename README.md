@@ -27,4 +27,4 @@
    <li>Filters</li>
 </ul>
 
-   <img src="[pic_trulli.jpg](https://github.com/zakafalak/Data_Analysis_With_Tableau/blob/main/Screenshot%20Dashboard.png)" alt="Italian Trulli">
+   <img src="[pic_trulli.jpg](https://github.com/zakafalak/Data_Analysis_With_Tableau/blob/main/Screenshot%20Dashboard.png)" alt="Dashboard Screenshort">
