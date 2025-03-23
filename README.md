@@ -1,4 +1,4 @@
-SalesAnalysis_SQL_PowerBI
+**SalesAnalysis_SQL_PowerBI**
 Setup
 •	This project requires SQL Server (SQL Express), Power BI Desktop
 •	We will work with backup Data Warehouse (DW) data and Lightweight (LT) data. Obtain data and restore following instructions from here.
