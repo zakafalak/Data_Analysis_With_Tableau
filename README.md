@@ -27,4 +27,5 @@
    <li>Filters</li>
 </ul>
 
-   <img src="[pic_trulli.jpg](https://github.com/zakafalak/Data_Analysis_With_Tableau/blob/main/Screenshot%20Dashboard.png)" alt="Dashboard Screenshort">
+   ![Screenshot Dashboard](https://github.com/user-attachments/assets/e05e09e9-f151-4986-a17b-26a0e63db541)
+
