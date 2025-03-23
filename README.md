@@ -12,3 +12,18 @@
 </ul>
 <h4>Business Request & User Stories </h4>
 <ul> <li> Read the sample business request, demand overview & filled-out user stories to understand the problem we are trying to solve with Data Analysis and what we consider as a solution.</li></ul>
+<h4> Creat Dashboard Tableau </h4>
+<ul>
+  <li>Load Data</li>
+  <li>Organize & Prepare Tables</li>
+  <li>Connect Tables for Data Model</li>
+  <li>Dashboard Design</li>
+  <li>Pie Chart</li>
+  <li>Bar Charts</li>
+  <li>Map</li>
+  <li>Circle Views</li>
+  <li>Box and Whisker Plots</li>
+  <li> Reset Slicer</li>
+   <li>Filters</li>
+  
+</ul>
