@@ -1,5 +1,5 @@
 <h1>SalesAnalysis_SQL_Tableau</h1>
-**Setup**
+<h4> Setup </h4>
 <ul> <li> This Project requires MY Sql and Tableau </li>
 <li> we will work with a Sample data of hr payrole for salaries distribution to the Data Science employees in disfrent roles and regions
 </li>
