@@ -1,4 +1,4 @@
-<h1>SalesAnalysis_SQL_Tableau</h1>
+<h1>Salaries Distribution Analysis_SQL_Tableau</h1>
 <h4> Setup </h4>
 <ul> <li> This Project requires MY Sql and Tableau </li>
 <li> we will work with a Sample data of hr payrole for salaries distribution to the Data Science employees in diffrent roles and regions
