@@ -22,6 +22,7 @@
   <li>Circle Views</li>
   <li>Line Bar Graph</li>
 </ul>
-mhtml:file:///C:/Users/Zaka%20Ullah/Downloads/dashboard%20performance/Recording_20250322_0052.mht!screenshot0012.JPEG!![image](https://github.com/user-attachments/assets/d354130d-507c-4ed9-af8f-2482a275a45a)
+![Screenshot (372)](https://github.com/user-attachments/assets/38f070a9-3188-492f-bb77-50f95e323d63)
+
 
 
