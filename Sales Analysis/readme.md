@@ -22,6 +22,6 @@
   <li>Circle Views</li>
   <li>Line Bar Graph</li>
 </ul>
-![tableau dashboard templete](https://github.com/user-attachments/assets/99ae77c1-e17c-4bb8-b6e7-dc8a29575051)
+![image](https://github.com/user-attachments/assets/d354130d-507c-4ed9-af8f-2482a275a45a)
 
 
