@@ -22,7 +22,7 @@
   <li>Circle Views</li>
   <li>Line Bar Graph</li>
 </ul>
-![Screenshot (372)](https://github.com/user-attachments/assets/38f070a9-3188-492f-bb77-50f95e323d63)
+![Dashboard ScreenShot](https://github.com/user-attachments/assets/38f070a9-3188-492f-bb77-50f95e323d63)
 
 
 
