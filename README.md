@@ -25,6 +25,6 @@
   <li>Box and Whisker Plots</li>
   <li> Reset Slicer</li>
    <li>Filters</li>
-   <img src="pic_trulli.jpg" alt="Italian Trulli">
-  
 </ul>
+
+   <img src="pic_trulli.jpg" alt="Italian Trulli">
